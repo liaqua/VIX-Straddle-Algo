@@ -1,4 +1,4 @@
-VVIX-Based Energy Pairs Trading Strategy
+#VVIX-Based Energy Pairs Trading Strategy
 An automated trading algorithm that uses volatility-of-volatility signals to execute pairs trades in energy commodity ETFs.
 Strategy Overview
 This algorithm monitors the CBOE VVIX index (volatility of VIX) to generate trading signals for a long/short position in energy ETFs:
